@@ -44,6 +44,8 @@ int main() {
                 default:
                     std::cout << "fault..." << std::endl;
             }
+
+            std::cout << "Program is terminated..\n";
     }
 
 
